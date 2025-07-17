@@ -77,4 +77,4 @@ This project is for educational and portfolio use. Dataset rights belong to thei
 
 ## 🙌 Acknowledgements
 
-Special thanks to [edSlash](https://www.youtube.com/@edslashservices) for providing guided prompts for sales EDA exploration.
+This project is independently developed as a data analysis case study. All datasets used are for educational purposes only.
